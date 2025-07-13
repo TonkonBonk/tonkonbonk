@@ -1,7 +1,7 @@
 This repository contains the source code for the **$TONK** meme coin landing page — a vibrant, fun, and responsive website designed to hype the feral Bonk-inspired crypto token.
 - **index.html**  
   The core HTML page presenting the landing content — includes hero section, token lore, CTAs (buy, chart), and wallet connection button.
-
+<img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" alt="$TONK - Bonk Goes Feral" />
 - **assets/**  
   Folder for all static media: GIFs of Bonk, logos, icons, backgrounds.
 
