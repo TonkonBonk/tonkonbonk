@@ -1,8 +1,37 @@
+# 🐾 $TONK Meme Coin Website
+
+<p align="center">
+  <img src="assets/bonk-feral.gif" alt="$TONK Banner" width="300" />
+</p>
+
 This repository contains the source code for the **$TONK** meme coin landing page — a vibrant, fun, and responsive website designed to hype the feral Bonk-inspired crypto token.
+
+---
+
+## 📂 Project Structure
+
+tonk-memecoin-website/
+├── index.html # Main landing page with HTML, CSS & JS
+├── assets/ # Images, GIFs, logos, icons
+│ ├── bonk-feral.gif
+│ └── logo.png
+├── css/ # Stylesheets
+│ └── styles.css
+├── js/ # JavaScript files
+│ └── walletConnect.js # Wallet connect logic & Web3 integration
+├── README.md # This file
+└── CNAME # (Optional) Custom domain for GitHub Pages
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧱 Key Components
+
 - **index.html**  
   The core HTML page presenting the landing content — includes hero section, token lore, CTAs (buy, chart), and wallet connection button.
-  
-<img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" alt="$TONK - Bonk Goes Feral" />
 
 - **assets/**  
   Folder for all static media: GIFs of Bonk, logos, icons, backgrounds.
